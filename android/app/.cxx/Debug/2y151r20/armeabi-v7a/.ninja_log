@@ -1,0 +1,6 @@
+# ninja log v5
+1	3	0	/home/diego/MiControlDeAcceso/android/app/.cxx/Debug/2y151r20/armeabi-v7a/CMakeFiles/cmake.verify_globs	24ed8274aef00e0c
+0	1524	1740427497639784422	CMakeFiles/appmodules.dir/home/diego/MiControlDeAcceso/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	bfef531f032be60e
+0	1682	1740427497796787401	CMakeFiles/appmodules.dir/OnLoad.cpp.o	3bf6cc91da90a48c
+1682	1711	1740427497834788122	/home/diego/MiControlDeAcceso/android/app/build/intermediates/cxx/Debug/2y151r20/obj/armeabi-v7a/libappmodules.so	5dc1836366a456a5
+1	3	0	/home/diego/MiControlDeAcceso/android/app/.cxx/Debug/2y151r20/armeabi-v7a/CMakeFiles/cmake.verify_globs	24ed8274aef00e0c
